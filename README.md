@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🎓I'm currently a second year computer science student at UBB Cluj.
+
+
+##### GitHub readme stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StefanButacu&layout=compact)](https://github.com/StefanButacu/github-readme-stats)
