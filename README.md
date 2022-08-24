@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🎓I'm currently a second year computer science student at UBB Cluj.
+🎓I'm currently a third year computer science student at UBB Cluj.
 
 
 ##### GitHub readme stats
